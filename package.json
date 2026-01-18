@@ -95,6 +95,7 @@
   "peerDependencies": {
     "@embroider/macros": "^1.18.0"
   },
+  "packageManager": "pnpm@10.26.1",
   "ember": {
     "edition": "octane"
   },
