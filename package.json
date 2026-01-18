@@ -92,9 +92,6 @@
     "typescript-eslint": "^8.19.1",
     "vite": "^7.1.9"
   },
-  "peerDependencies": {
-    "@embroider/macros": "^1.18.0"
-  },
   "packageManager": "pnpm@10.26.1",
   "ember": {
     "edition": "octane"
