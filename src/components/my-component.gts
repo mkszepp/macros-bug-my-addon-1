@@ -6,11 +6,9 @@ export interface Signature {
 }
 
 export default class MyComponent extends Component<Signature> {
-  get isTesting () {
+  get isTesting() {
     return isTesting();
   }
 
-  <template>
-    {{this.isTesting}}
-  </template>
+  <template>{{this.isTesting}}</template>
 }
