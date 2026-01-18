@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/index.ts"],"sourcesContent":["import { isTesting } from '@embroider/macros';\n\nexport default class MyAddon {\n  get isTesting() {\n    return isTesting();\n  }\n}\n"],"names":["MyAddon","isTesting"],"mappings":";;AAEe,MAAMA,OAAO,CAAC;EAC3B,IAAIC,SAASA,GAAG;IACd,OAAOA,SAAS,EAAE;AACpB,EAAA;AACF;;;;"}
